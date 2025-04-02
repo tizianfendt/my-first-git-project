@@ -1,2 +1,2 @@
 Hello, Git! This is my second and last edit.
-This is a change in feature-1.
+This is a change in feature-1. Yes.
